@@ -1,14 +1,14 @@
 {
-  "main.css": "/nikitakvlvs/myfirstapp.git/static/css/main.2650f35c.chunk.css",
-  "main.js": "/nikitakvlvs/myfirstapp.git/static/js/main.5db5ee6d.chunk.js",
-  "main.js.map": "/nikitakvlvs/myfirstapp.git/static/js/main.5db5ee6d.chunk.js.map",
-  "runtime~main.js": "/nikitakvlvs/myfirstapp.git/static/js/runtime~main.e56896e9.js",
-  "runtime~main.js.map": "/nikitakvlvs/myfirstapp.git/static/js/runtime~main.e56896e9.js.map",
-  "static/js/2.32a8655b.chunk.js": "/nikitakvlvs/myfirstapp.git/static/js/2.32a8655b.chunk.js",
-  "static/js/2.32a8655b.chunk.js.map": "/nikitakvlvs/myfirstapp.git/static/js/2.32a8655b.chunk.js.map",
-  "index.html": "/nikitakvlvs/myfirstapp.git/index.html",
-  "precache-manifest.ba45f9cf67b31b8a0eea6949d171377a.js": "/nikitakvlvs/myfirstapp.git/precache-manifest.ba45f9cf67b31b8a0eea6949d171377a.js",
-  "service-worker.js": "/nikitakvlvs/myfirstapp.git/service-worker.js",
-  "static/css/main.2650f35c.chunk.css.map": "/nikitakvlvs/myfirstapp.git/static/css/main.2650f35c.chunk.css.map",
-  "static/media/logo.svg": "/nikitakvlvs/myfirstapp.git/static/media/logo.5d5d9eef.svg"
+  "main.css": "/myfirstapp/static/css/main.2650f35c.chunk.css",
+  "main.js": "/myfirstapp/static/js/main.73c7c6d1.chunk.js",
+  "main.js.map": "/myfirstapp/static/js/main.73c7c6d1.chunk.js.map",
+  "runtime~main.js": "/myfirstapp/static/js/runtime~main.1ab09304.js",
+  "runtime~main.js.map": "/myfirstapp/static/js/runtime~main.1ab09304.js.map",
+  "static/js/2.32a8655b.chunk.js": "/myfirstapp/static/js/2.32a8655b.chunk.js",
+  "static/js/2.32a8655b.chunk.js.map": "/myfirstapp/static/js/2.32a8655b.chunk.js.map",
+  "index.html": "/myfirstapp/index.html",
+  "precache-manifest.f8ac15c1e96fade08e82cc8a957dedd0.js": "/myfirstapp/precache-manifest.f8ac15c1e96fade08e82cc8a957dedd0.js",
+  "service-worker.js": "/myfirstapp/service-worker.js",
+  "static/css/main.2650f35c.chunk.css.map": "/myfirstapp/static/css/main.2650f35c.chunk.css.map",
+  "static/media/logo.svg": "/myfirstapp/static/media/logo.5d5d9eef.svg"
 }
